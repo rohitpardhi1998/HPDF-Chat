@@ -22,8 +22,9 @@
 * npm install native-base --save
 
 ## Example:-
+'''jsx
 
-* import React from 'react';
+import React from 'react';
 
 import { StyleSheet, Text, View,ImageBackground,Image,TouchableOpacity,TextInput,Linking} from 'react-native';
 
@@ -169,5 +170,6 @@ logincontainer:{
 
 }
 );
+'''
 
 
