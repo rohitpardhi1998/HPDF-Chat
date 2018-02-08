@@ -108,13 +108,15 @@ render() {
              },
 
  headerTitleStyle: {
+                     
                      fontSize:23,
                      padding:10,
 
                    },
 
  logocontainer: {
-                  flex:1,
+                 
+                 flex:1,
                   alignItems:'center',
                   justifyContent:'center',
                 },
@@ -125,7 +127,8 @@ render() {
          },
 
   textStyle: {
-              color:'white',
+  
+                color:'white',
                 fontSize:50,
                 justifyContent:'center',
                 flex:1,
@@ -134,11 +137,13 @@ render() {
             },
 
 logincontainer:{
+
                 alignItems:'center',
                },
 
   textinput:{
-             color:'black',
+            
+            color:'black',
              fontSize:20,
              padding:10,
              alignSelf:'stretch',
@@ -150,9 +155,10 @@ logincontainer:{
            },
            
   text2Style: {
-            color:'white',
-            fontSize:35,
-              },
+  
+             color:'white',
+             fontSize:35,
+             },
 
 
 
