@@ -22,7 +22,7 @@
 * npm install native-base --save
 
 ## Example:-
-'''jsx
+```jsx
 
 import React from 'react';
 
@@ -170,6 +170,6 @@ logincontainer:{
 
 }
 );
-'''
+```
 
 
