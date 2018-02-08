@@ -178,6 +178,7 @@ logincontainer:{
 ```
 
 ## Props :-
+
 # Resources
 Useful resources:
 - [React Native docs](https://facebook.github.io/react-native/)
