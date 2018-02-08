@@ -191,6 +191,24 @@ logincontainer:{
 
 ## Props :-
 
+
+# Summary
+Building this small app, we've covered a lot of ground. We...
+- Learned how to create a new app with Create React Native App (CRNA)
+- Learned how to set up a live-reloading development environment with Expo
+- Learned about the anatomy of a React Native module
+- Learned about native primitives like Views, Texts, Images and more
+- Learned how to style and layout our components with the CSS-like Flexbox implementation
+- Learned how to gather user input with TextInput
+- Learned how to work with the device keyboard with KeyboardAvoidingView
+- Learned how to use async/await to perform asynchronous API calls
+- Learned about the power of third-party Components and how to use them in your app
+- Learned how to split your app into multiple components
+- Learned how to publish an app to the Expo store
+
+Of course, we didn't learn them very deeply. You now have an idea on how to build a simple app in React Native, but the learning only starts here!
+
+
 # Resources
 Useful resources:
 - [React Native docs](https://facebook.github.io/react-native/)
