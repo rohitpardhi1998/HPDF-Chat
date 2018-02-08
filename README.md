@@ -190,9 +190,9 @@ logincontainer:{
 ```
 
 ## Props :-
--ImageBackground 
--TextInput 
--TouchableOpacity
+- ImageBackground 
+- TextInput 
+- TouchableOpacity
 
 
 
