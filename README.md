@@ -1,6 +1,6 @@
 ##  Features:
-*Load Earlir messages
-*Touchable link using react-native=app
+Load Earlir messages
+Touchable link using react-native=app
 *System message 
 *messaging by api
 *8Redux support.
