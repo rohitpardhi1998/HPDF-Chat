@@ -1,16 +1,9 @@
-##Features:
+##  Features:
 *Load Earlir messages
 *Touchable link using react-native=app
 *System message 
 *messaging by api
-8Redux support.
-
-
-
-
-
-
-
+*8Redux support.
 
 EXPO LINK OF THE MY TASK-3(react-native) APPLICATION IS HERE  :-https://expo.io/@skynet-08/chatbot
  
