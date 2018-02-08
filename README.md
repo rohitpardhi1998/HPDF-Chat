@@ -228,5 +228,5 @@ Useful resources:
 
 
 ## Made by rohitpardhi90@gmail.com  
-   * Url of my github Project i :-
+   * URL OF MY GIHUB CHAT PROJECT IS  :-
   - https://github.com/rohitpardhi1998/HPDF-Chat
