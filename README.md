@@ -34,7 +34,7 @@ import {Header,Container,Left,Title,Body,Right} from 'native-base';
 export default class App extends React.Component {
   state={
    isReady: false
- }
+        }
 
  async componentWillMount() {
  await Expo.Font.loadAsync({
@@ -52,18 +52,20 @@ render() {
          }
 
 
- return (
+return (
+
         <ImageBackground source={require('./rt.jpeg')}style={styles.container}>
         <Container>
-             <Header style={styles.headerStyle}>
-               <Left>
-                 <Body>
-                   <Title style={styles.headerTitleStyle}>Online Store</Title>
-                 </Body>
+            <Header style={styles.headerStyle}>
+              <Left>
+                <Body>
+                  <Title style={styles.headerTitleStyle}>Online Store</Title>
+                </Body>
               </Left>
-            </Header>
-         </Container>
+           </Header>
+        </Container>
   <View style={styles.logocontainer}>
+  
            <Image source={require('./gg.png')} style={styles.logo}/>
   </View>
 
@@ -164,6 +166,7 @@ logincontainer:{
 
 
 
-});
+}
+);
 
 
