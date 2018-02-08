@@ -67,7 +67,7 @@ render() {
            <Image source={require('./gg.png')} style={styles.logo}/>
   </View>
 
-         <Text style={styles.textStyle}>ChatBot App</Text>
+        <Text style={styles.textStyle}>ChatBot App</Text>
     <View style={styles.logincontainer}>
              <TextInput underlineColorAndroid='transparent' placeholder='Enter your name' style={styles.textinput}/>
 
@@ -98,7 +98,7 @@ render() {
                      width: undefined,
                   },
 
- headerStyle:{
+ headerStyle: {
 
                   backgroundColor:'transparent',
                   padding:30,
@@ -107,24 +107,24 @@ render() {
 
              },
 
- headerTitleStyle:{
-                   fontSize:23,
-                   padding:10,
+ headerTitleStyle: {
+                     fontSize:23,
+                     padding:10,
 
-              },
+                   },
 
- logocontainer:{
+ logocontainer: {
                   flex:1,
                   alignItems:'center',
                   justifyContent:'center',
-              },
+                },
 
-    logo:{
+    logo:  {
                   width:190,
                   height:170,
          },
 
-  textStyle:{
+  textStyle: {
               color:'white',
                 fontSize:50,
                 justifyContent:'center',
@@ -135,7 +135,7 @@ render() {
 
 logincontainer:{
                 alignItems:'center',
-            },
+               },
 
   textinput:{
              color:'black',
@@ -147,11 +147,12 @@ logincontainer:{
              borderColor:'#fff',
              backgroundColor:'white',
 
-       },
-  text2Style:{
+           },
+           
+  text2Style: {
             color:'white',
             fontSize:35,
- },
+              },
 
 
 
