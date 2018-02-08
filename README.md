@@ -1,4 +1,4 @@
-## The Expo Link For Project Is Here:-
+## The Expo Link For Project Is Here :-
  * https://expo.io/@skynet-08/chatbot
  
  
@@ -6,7 +6,7 @@
  
  
  
- # Introduction
+ # Introduction :-
 
 This tutorial will walk through building a simple real-time chat app with React Native for Android and iOS. Along the way, you'll get to practice React Native basics and learn about tools you can use to build apps.
 
@@ -15,30 +15,30 @@ Work the tutorial at your own pace. The instructions below assume that you are c
 
 
 
-##  Features:
+##  Features :-
 * [Load Earlir messages]
 * [Touchable link using react-native-app]
 * [System message ]
 * [Messaging by api]
 * [Redux support.]
 
-## Dependencies:
+## Dependencies :-
 * Use version 0.2.x for RN >= 0.44.0
 * Use version 0.1.x for RN >= 0.40.0
 * Use version 0.0.10 for RN < 0.40.0
 
-## Notes for local Development:
+## Notes for local Development :-
 * npm install -g create-react-native-app
 * create-react-native-app Projectname
 * cd projectname
 * npm start
 
-## Installation:
+## Installation :- 
 * Using npm:
 * npm install react-native --save
 * npm install native-base --save
 
-## Example:-
+## Code  :-
 ```jsx
 
 import React from 'react';
