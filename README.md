@@ -1,5 +1,17 @@
 ## The Expo Link For Project Is Here:-
  * https://expo.io/@skynet-08/chatbot
+ 
+ 
+ 
+ 
+ 
+ 
+ # Introduction
+
+This tutorial will walk through building a simple real-time chat app with React Native for Android and iOS. Along the way, you'll get to practice React Native basics and learn about tools you can use to build apps.
+
+Work the tutorial at your own pace. The instructions below assume that you are comfortable with writing JavaScript and using npm. The tutorial assumes the use of `npm`, but the equivalent `yarn` commands will work as well.
+
 
 
 
