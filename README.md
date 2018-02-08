@@ -23,7 +23,7 @@
 
 ## Example:-
 
-import React from 'react';
+* import React from 'react';
 
 import { StyleSheet, Text, View,ImageBackground,Image,TouchableOpacity,TextInput,Linking} from 'react-native';
 
@@ -47,7 +47,8 @@ export default class App extends React.Component {
 
 
 render() {
-  if (!this.state.isReady) {
+
+   if (!this.state.isReady) {
     return <Expo.AppLoading />;
          }
 
