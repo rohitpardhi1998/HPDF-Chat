@@ -190,6 +190,13 @@ logincontainer:{
 ```
 
 ## Props :-
+# Publish your app!
+
+Because we've built the app on Expo, you can distribute the app via Expo's `exp` CLI. Let's install that globally on your machine and sign up:
+```sh
+npm install -g exp
+exp register
+```
 
 
 # Summary
