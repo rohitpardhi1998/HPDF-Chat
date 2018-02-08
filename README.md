@@ -177,4 +177,14 @@ logincontainer:{
 );
 ```
 
+## Props :-
+# Resources
+Useful resources:
+- [React Native docs](https://facebook.github.io/react-native/)
+  - [Built-in components](https://facebook.github.io/react-native/docs/components-and-apis.html)
+- [React Native Express](http://www.reactnativeexpress.com/) - A great guide for experienced JavaScripp developers
+- [React (Native) Parts](https://react.parts/native) - React Native components from NPM
+- [React docs](https://facebook.github.io/react/docs/hello-world.html)
+- [Expo docs](https://docs.expo.io/versions/v17.0.0/index.html)
+- [Awesome React Native](https://github.com/jondot/awesome-react-native) - More resources than you will ever have time to read!
 
