@@ -17,8 +17,9 @@
 * npm start
 
 ## Installation:
-* Using npm: npm install react-native --save
-            *  npm install native-base --save
+* Using npm:
+* npm install react-native --save
+* npm install native-base --save
 
 
 
