@@ -2,7 +2,8 @@
  * https://expo.io/@skynet-08/chatbot
  
  
- 
+ <img src="blob:https://web.whatsapp.com/25468def-fc61-4165-ba62-db7ace16be9e" width="300" />
+
  
  
  
