@@ -2,7 +2,7 @@
  * https://expo.io/@skynet-08/chatbot
  
  
- <img src="https://drive.google.com/open?id=1N0xKsUWsGUOt7AEwHrX-ipq13snW2ugF" width="300" />
+ 
 
  
  
